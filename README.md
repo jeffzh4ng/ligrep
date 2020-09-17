@@ -1,3 +1,3 @@
 # ligrep
 
-A lightweight Rust implementation of grep
+A lightweight Rust implementation of grep.
